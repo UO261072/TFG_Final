@@ -4,3 +4,4 @@ Assets/Scenes/MainMenu.unity filter=lfs diff=lfs merge=lfs -text
 Assets/Scenes/TestScene.unity filter=lfs diff=lfs merge=lfs -text
 Library/PlayerDataCache/Win64/Data/level1 filter=lfs diff=lfs merge=lfs -text
 Library/PlayerDataCache/Win64/Data/level2 filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
